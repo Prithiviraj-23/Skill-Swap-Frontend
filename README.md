@@ -20,14 +20,17 @@ Follow these steps to get the project up and running locally.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Prithiviraj-23/Skill-Swap-Frontend.git
+```
 
 ### 2. Install dependency
 
 ```bash
 npm install
+```
 
 ### 3. Run the app
 
 ```bash
 npm run dev
+```
